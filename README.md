@@ -4,13 +4,10 @@
 
 以下海报均由本 Skill 生成。
 
-| | |
-|---|---|
-| <img src="assets/01-xianghai.png" width="260" alt="向海"> | <img src="assets/02-jieli.png" width="260" alt="接力"> |
-| 向海 · 群像叙事 | 接力 · 群像叙事 |
-
-
-围绕一个主题，生成一张 9:16 高端多人物编辑海报：4–7 位截然不同的人物，一个能把他们连在一起的故事，一种强烈的主图形系统。
+| | | | |
+|---|---|---|---|
+| <img src="assets/01.png" width="200"> | <img src="assets/02.png" width="200"> | <img src="assets/03.png" width="200"> | <img src="assets/04.png" width="200"> |
+| <img src="assets/05.png" width="200"> | <img src="assets/06.png" width="200"> | <img src="assets/07.png" width="200"> | <img src="assets/08.png" width="200"> |
 
 ## 它能做什么
 - 自动设计人物群像：年龄、身份、性格、姿态与关系各不相同
