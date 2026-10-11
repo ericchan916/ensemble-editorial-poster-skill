@@ -1,5 +1,15 @@
 # 多人物叙事编辑海报 Skill / Ensemble Editorial Poster Skill
 
+## 作品展示 · Gallery
+
+以下海报均由本 Skill 生成。
+
+| | |
+|---|---|
+| <img src="assets/01-xianghai.png" width="260" alt="向海"> | <img src="assets/02-jieli.png" width="260" alt="接力"> |
+| 向海 · 群像叙事 | 接力 · 群像叙事 |
+
+
 围绕一个主题，生成一张 9:16 高端多人物编辑海报：4–7 位截然不同的人物，一个能把他们连在一起的故事，一种强烈的主图形系统。
 
 ## 它能做什么
